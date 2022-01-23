@@ -1,0 +1,5 @@
+парк
+shop
+flower
+man
+school
